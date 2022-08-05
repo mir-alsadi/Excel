@@ -12,6 +12,8 @@ Tasks Performed:
 - Created a Dashboard that includes a Column Chart of the month-wise table and region-wise table
 
 
+
+
 2) Predicting restaurant tips using predictive analytics on Excel
 
 Model to predict restaurant tips given input values with the mathematical equation for predicting the tips value
