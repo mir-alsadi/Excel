@@ -11,8 +11,7 @@ Tasks Performed:
 - Linked the table with a combo box
 - Created a Dashboard that includes a Column Chart of the month-wise table and region-wise table
 
-
-
+.
 
 2) Predicting restaurant tips using predictive analytics on Excel
 
